@@ -1,0 +1,22 @@
+{
+  "name": "mock_api_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server -p 3001 -w db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mensageo-app/mock_api_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mensageo-app/mock_api_server/issues"
+  },
+  "homepage": "https://github.com/Mensageo-app/mock_api_server#readme",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}

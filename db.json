@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {
+      "name": "Mask",
+      "amount": 10,
+      "uid": 1
+    },
+    {
+      "name": "Test",
+      "amount": 77,
+      "uid": 2
+    }
+  ]
+}
