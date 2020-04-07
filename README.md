@@ -25,4 +25,5 @@ Open [http://localhost:3001](http://localhost:3000) to view it in the browser.
     "amount": 77,
     "uid": uidentifier
   }
-]```
+]
+You can find more options for configuration at: https://www.npmjs.com/package/json-server
