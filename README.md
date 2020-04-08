@@ -15,15 +15,11 @@ Open [http://localhost:3001](http://localhost:3000) to view it in the browser.
 
 ### `get http://localhost:3001/categories` returns
 ```[
-  {
-    "name": "Testing",
-    "amount": 10,
-    "uid": identifier
-  },
-  {
-    "name": "Test",
-    "amount": 77,
-    "uid": uidentifier
-  }
-]
+    {
+        "name": "Mask",
+        "quantity": 10,
+        "id": 1,
+        "icon": "mask"
+    }
+   ]
 You can find more options for configuration at: https://www.npmjs.com/package/json-server

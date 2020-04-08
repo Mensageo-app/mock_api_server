@@ -2,13 +2,15 @@
   "categories": [
     {
       "name": "Mask",
-      "amount": 10,
-      "uid": 1
+      "quantity": 10,
+      "id": 1,
+      "icon": "mask"
     },
     {
       "name": "Test",
-      "amount": 77,
-      "uid": 2
+      "quantity": 77,
+      "id": 2,
+      "icon": "placeholder"
     }
   ]
 }
