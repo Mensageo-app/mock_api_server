@@ -12,5 +12,33 @@
       "id": 2,
       "icon": "placeholder"
     }
+    ,
+    {
+      "name": "Gloves",
+      "quantity": 458,
+      "id": 3,
+      "icon": "gloves"
+    }
+    ,
+    {
+      "name": "Face shields",
+      "quantity": 43,
+      "id": 4,
+      "icon": "face-shield"
+    }
+    ,
+    {
+      "name": "Sanitizers",
+      "quantity": 13,
+      "id": 5,
+      "icon": "sanitizer"
+    }
+    ,
+    {
+      "name": "Gowns",
+      "quantity": 26,
+      "id": 6,
+      "icon": "gown"
+    }
   ]
 }
