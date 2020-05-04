@@ -40,5 +40,24 @@
       "id": 6,
       "icon": "gown"
     }
+  ],
+  "hospital_needs": [
+    {
+      "id": 1,
+      "name": "Hospital Clinic",
+      "needs": [
+        { "quantity": 50, "productsName": "Mask" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Hospital del Mar",
+      "needs": [{ "quantity": 100, "productsName": "Mask" }]
+    },
+    {
+      "id": 3,
+      "name": "Clinica Sabadell",
+      "needs": [{ "quantity": 100, "productsName": "Mask" }]
+    }
   ]
 }
