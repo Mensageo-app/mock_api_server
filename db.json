@@ -62,101 +62,42 @@
   "hospital_needs": [
     {
       "id": 1,
-      "hospital_id": 2,
-      "product_id": 1,
+      "hospital": 
+       {
+        "id": 2,
+        "name": "Hospital Clinic",
+        "address": "Carrer de Villarroel, 170, 08036 Barcelona"
+      },
+      "product": 
+      {
+        "id": 1,
+        "name": "Mask",
+        "icon": "mask",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+      },
       "quantity":5,
       "request_timestamp": "2020-05-24 17:00:00"
     },
     {
       "id": 2,
-      "hospital_id": 1,
-      "product_id": 1,
-      "quantity":4,
-      "request_timestamp": "2020-05-24 17:00:00"
-    },
-    {
-      "id": 3,
-      "hospital_id": 4,
-      "product_id": 2,
-      "quantity":40,
-      "request_timestamp": "2020-05-24 17:00:00"
-    },
-    {
-      "id": 3,
-      "hospital_id": 2,
-      "product_id": 2,
-      "quantity":17,
-      "request_timestamp": "2020-05-24 17:00:00"
-    },
-    {
-      "id": 4,
-      "hospital_id": 1,
-      "product_id": 2,
-      "quantity":20,
-      "request_timestamp": "2020-05-24 17:00:00"
-    },
-    {
-      "id": 5,
-      "hospital_id": 1,
-      "product_id": 3,
-      "quantity":458,
-      "request_timestamp": "2020-05-24 17:00:00"
-    },
-    {
-      "id": 6,
-      "hospital_id": 1,
-      "product_id": 4,
-      "quantity":4,
-      "request_timestamp": "2020-05-24 17:00:00"
-    },
-    {
-      "id": 7,
-      "hospital_id": 4,
-      "product_id": 4,
-      "quantity":37,
-      "request_timestamp": "2020-05-24 17:00:00"
-    },
-    {
-      "id": 8,
-      "hospital_id": 4,
-      "product_id": 4,
-      "quantity":2,
-      "request_timestamp": "2020-05-24 17:00:00"
-    },
-    {
-      "id": 9,
-      "hospital_id": 4,
-      "product_id": 5,
-      "quantity":13,
-      "request_timestamp": "2020-05-24 17:00:00"
-    },
-    {
-      "id": 10,
-      "hospital_id": 4,
-      "product_id": 6,
-      "quantity":1,
-      "request_timestamp": "2020-05-24 17:00:00"
-    },
-    {
-      "id": 11,
-      "hospital_id": 3,
-      "product_id": 6,
-      "quantity":1,
-      "request_timestamp": "2020-05-24 17:00:00"
-    },
-    {
-      "id": 12,
-      "hospital_id": 2,
-      "product_id": 6,
-      "quantity":2,
-      "request_timestamp": "2020-05-24 17:00:00"
-    },
-    {
-      "id": 13,
-      "hospital_id": 2,
-      "product_id": 6,
+      "hospital": 
+       {
+        "id": 2,
+        "name": "Hospital Clinic",
+        "address": "Carrer de Villarroel, 170, 08036 Barcelona"
+      },
+      "product": 
+      {
+        "id": 1,
+        "name": "Mask",
+        "icon": "mask",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+      },
       "quantity":10,
-      "request_timestamp": "2020-05-24 17:00:00"
+      "request_timestamp": "2020-05-28 17:00:00"
     }
+
+
+
   ]
 }
